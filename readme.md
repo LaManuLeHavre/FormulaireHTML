@@ -3,7 +3,7 @@
 > ... Un peu d'inputs dans ce monde de dev ...
 
 ## Page d'inscription pour un site de développeur
-**Important** Une seule page index.html, une seule feuille de style et un seul formulaire. Bien choisir les différents types d'input.
+**Important** une feuille de style et un seul formulaire : *Un seul form*. Bien choisir les différents types d'input.
 
 ## Partie 1
 * Civilité *(select)*
