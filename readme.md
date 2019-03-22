@@ -18,7 +18,8 @@
 * Choix d'un mdp + validation de celui-ci *(Sur la même ligne en 2 éléments)*  
 
 ## Partie 2
-* Demander à l'utilisateur son niveau de developpeur : **débutant, junior ou expert** *(type radio)*
+* Demander à l'utilisateur son niveau en tant que
+developpeur : **débutant, junior ou expert** *(type radio)*
 * Demander à l'utilisateur d'indiquer ses connaissances dans les langages suivants : **Ruby, Python, PHP, Java, NodeJS, ReactJS et C#** *(Choix multiples)*
 * Demander à l'utilisateur d'indiquer sur quel OS il travaille via une liste déroulante avec des catégories : **Windows** *windows 10, Windows 8, Windows 7*, **LINUX** *Ubuntu, Debian*, **Autres** *MacOS, ChromeOS, autre*  
 
